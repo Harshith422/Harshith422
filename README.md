@@ -20,9 +20,9 @@
 
 *<h3 align="left">🌟 What I Do</h3>*
 
-- 💼 I'm currently working on: *🧠 Agriculture yield detection  - Computer Vision*
+- 💼 I'm currently working on: *🧠 Landcover Classification  - Computer Vision*
 - 🌱 I'm currently learning: *📚  Exploring Deep Learning and Machine Learning frameworks.*
-- 💬 Ask me about: *💡 Python, CPP, PostgreSQL, TensorFlow, HTML, CSS*
+- 💬 Ask me about: *💡 Python, CPP, PostgreSQL, TensorFlow, HTML, CSS, AWS, Node.js*
 - ⚡ Fun fact: *🎮 Once I wrote code to optimize my gaming setup—now my game runs faster than my code! 💻*
 
  *<h3 align="left">Skills</h3>*
